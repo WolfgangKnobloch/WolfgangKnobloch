@@ -4,7 +4,8 @@
   - No recent experience on coding (last time 30 years back, C Language)
   - but want to change that, now that I have timne again
   
-- 👀 I’m interested in Linux/OSMC/Kodi/KORE
+- 👀 I’m interested in Linux/OSMC/Kodi/KORE and recently started using Node-Red
+
 - 📫 wolfgang.knobloch@online.de
 <!---
 - 🌱 I’m currently learning ...
